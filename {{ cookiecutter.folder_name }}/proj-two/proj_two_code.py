@@ -1,6 +1,6 @@
-import calculator as calc
+from shared_functions import dot_product
 
 a = [1, 2, 3]
 b = [-1, -2, -3]
-result = calc.dot_product(a, b)
+result = dot_product(a, b)
 print(result)
