@@ -1,6 +1,6 @@
 import numpy as np
 import pytest
-import calculator as calc
+from shared_functions import dot_product
 
 
 def test_dot_product_2D_list():
@@ -35,5 +35,5 @@ def test_dot_product_3D_list():
     ],
 )
 def test_dot_product(a, b, expected):
-    actual = calc.dot_product(a, b)
+    actual = dot_product(a, b)
     assert actual == expected
