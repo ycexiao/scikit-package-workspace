@@ -6,10 +6,9 @@ labels: "release"
 assignees: ""
 ---
 
-### GitHub preparation checklist:
+### GitHub release checklist:
 
 - [ ] All PRs/issues attached to the release are merged.
-- [ ] All the badges on the README are passing.
 - [ ] License information is verified as correct. If you are unsure, please comment below.
 - [ ] Successfully run any tutorial examples or do functional testing with the latest Python version.
 - [ ] Grammar and writing quality are checked (no typos).
