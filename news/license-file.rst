@@ -1,6 +1,6 @@
 **Added:**
 
-* Add LICENSE file.
+* No news added: Add LICENSE file.
 
 **Changed:**
 
