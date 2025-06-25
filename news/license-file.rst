@@ -4,7 +4,7 @@
 
 **Changed:**
 
-* <news item>
+* No news added: Add an empty CHANGELOG.rst file.
 
 **Deprecated:**
 
