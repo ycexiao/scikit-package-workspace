@@ -1,6 +1,6 @@
 **Added:**
 
-* No news added: Add LICENSE file.
+* No news added: Add CHANGLOGE file.
 
 **Changed:**
 
